@@ -2,7 +2,8 @@
 	encabezado("Inicio de control de evaluacion, parte administracion");
 ?>
 	<link rel="stylesheet" type="text/css" href="css/tema.css">
-	<script type="text/javascript" src="http://tecnodisa.com/librerias/funciones.js"></script>
+	<script type="text/javascript" src="http://tecnodisa.com/librerias/script/funciones_varias.js"></script>
+	<script type="text/javascript" src="http://tecnodisa.com/librerias/script/funciones_mysql.js"></script>
 	<div id="marco_control_evaluacion">
 		<div id="encabezado_control_evaluacion">
 			<label>Nombre Curso: </label><br>
